@@ -1,16 +1,18 @@
 <!-- ===================== VIOLET RECTANGLE BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=8b5cf6&height=160&section=header&text=Rohit%20Tangirala&fontSize=44&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:4C1D95,100:7C3AED&height=220&section=header&text=Rohit%20Tangirala&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<!-- ===================== TYPING ANIMATION ===================== -->
+<!-- ===================== TYPING ANIMATION ===================== 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=520&lines=Anime+Night+Coder;Full+Stack+Developer;Logic+First+Builder;Silent+Grind+Mode"/>
 </p>
 
 <!-- ===================== YORIICHI CHARACTER ===================== -->
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGdoa2d0b2ZrenBudjdhNGV3c2k3dmVuYjZuNjE3dTRhY21oamMxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pn6MTyyz5yEIB5w9Qx/giphy.gif" width="240"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGdoa2d0b2ZrenBudjdhNGV3c2k3dmVuYjZuNjE3dTRhY21oamMxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pn6MTyyz5yEIB5w9Qx/giphy.gif" width="480"
+      style="max-width:100%; border-radius:12px;"
+  />
 </p>
 
 <h3 align="center">
@@ -27,14 +29,15 @@
 
 ## 🧠 Who Am I
 
-<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemM3NjUxbDIwbDlwNGs3N2tqZXU2cm1wOTd5bXN0NmNzd3BxOG1hayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RKp3DW2ZwDlVS/giphy.gif" width="200"/>
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemM3NjUxbDIwbDlwNGs3N2tqZXU2cm1wOTd5bXN0NmNzd3BxOG1hayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RKp3DW2ZwDlVS/giphy.gif" width="360"/>
 
-- 🎓 CS student focused on **real-world skills**
-- 🧩 Logic-first learner, no blind memorization
-- 💻 Full-Stack & Backend focused
-- 🌱 Java, Spring Boot, Databases
-- 🇯🇵 Learning Japanese (slow & consistent)
-- 🌙 Peak focus at night with lo-fi
+- 🎓 Computer Science student focused on **practical, real-world skills**
+- 💻 Full Stack Developer with a **logic-first mindset**
+- 🧩 I prefer understanding systems **from the ground up**
+- 🌙 Most productive at night — calm, focused, consistent
+- 🎬 Passionate **anime watcher** (story, depth & animation quality)
+- 🎧 Work best with lo-fi, silence, or deep-focus mode
+- 🎯 Discipline > motivation. Execution > noise.
 
 ---
 
@@ -64,34 +67,20 @@
 </p>
 
 ---
-
-## 🔥 How I Build (Yoriichi Mode)
-
-- Calm, precise, disciplined
-- Strong fundamentals > flashy tricks
-- From scratch understanding
-- Silent execution
-- Long-term mastery mindset
-
----
-
 ## 🎯 Current Arc
-
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWQ1b3Y2c3k4Z3p3Z3B2cGx2cG9wMW9qaW5tMDRqM3N3cWZkZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Fs0K4Y9uYpY4g/giphy.gif" width="180"/>
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWE4dW82Y3VmbHJnZ3FyZmt0bjhjbTI0ZDl4NW54cXlvZjZpaG1mZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8qXJTU5oEhQZO/giphy.gif" width="280"/>
 
 - 🧱 Build real projects
 - ⚙️ Backend mastery
 - 📁 Strong GitHub portfolio
 - 💸 Scalable skills
 - 🧭 Independence through discipline
+  
+
 
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohit-Tangirala&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-Tangirala&theme=tokyonight&hide_border=true"/>
@@ -107,5 +96,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=8b5cf6&height=90&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4C1D95,100:1E1B4B&height=120&section=footer"/>
 </p>
