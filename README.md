@@ -10,7 +10,7 @@
 
 <!-- ===================== YORIICHI CHARACTER ===================== -->
 <p align="center">
-  <img src="https://media.giphy.com/media/JQXe7h2Y6dY5q/giphy.gif" width="240"/>
+  <img src="[https://media.giphy.com/media/JQXe7h2Y6dY5q/giphy.gif](https://giphy.com/gifs/animation-ninja-jzHFPlw89eTqU)" width="240"/>
 </p>
 
 <h3 align="center">
@@ -18,9 +18,9 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RohitTangirala&label=Profile%20Views&color=8b5cf6&style=flat"/>
-  <img src="https://img.shields.io/github/followers/RohitTangirala?color=22c55e&style=flat"/>
-  <img src="https://img.shields.io/github/stars/RohitTangirala?color=facc15&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=Rohit-Tangirala&label=Profile%20Views&color=8b5cf6&style=flat"/>
+  <img src="https://img.shields.io/github/followers/Rohit-Tangirala?color=22c55e&style=flat"/>
+  <img src="https://img.shields.io/github/stars/Rohit-Tangirala?color=facc15&style=flat"/>
 </p>
 
 ---
@@ -90,11 +90,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohitTangirala&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohit-Tangirala&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohitTangirala&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-Tangirala&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
