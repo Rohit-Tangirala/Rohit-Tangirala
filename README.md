@@ -10,7 +10,7 @@
 
 <!-- ===================== YORIICHI CHARACTER ===================== -->
 <p align="center">
-  <img src="[https://media.giphy.com/media/JQXe7h2Y6dY5q/giphy.gif](https://giphy.com/gifs/animation-ninja-jzHFPlw89eTqU)" width="240"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGdoa2d0b2ZrenBudjdhNGV3c2k3dmVuYjZuNjE3dTRhY21oamMxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pn6MTyyz5yEIB5w9Qx/giphy.gif" width="240"/>
 </p>
 
 <h3 align="center">
@@ -27,7 +27,7 @@
 
 ## 🧠 Who Am I
 
-<img align="right" src="https://media.giphy.com/media/6XX4V0O8a0xdS/giphy.gif" width="200"/>
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemM3NjUxbDIwbDlwNGs3N2tqZXU2cm1wOTd5bXN0NmNzd3BxOG1hayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RKp3DW2ZwDlVS/giphy.gif" width="200"/>
 
 - 🎓 CS student focused on **real-world skills**
 - 🧩 Logic-first learner, no blind memorization
