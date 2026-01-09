@@ -3,17 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:4C1D95,100:7C3AED&height=220&section=header&text=Rohit%20Tangirala&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<!-- ===================== TYPING ANIMATION ===================== 
+<!-- ===================== TYPING ANIMATION ===================== -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=520&lines=Anime+Night+Coder;Full+Stack+Developer;Logic+First+Builder;Silent+Grind+Mode"/>
 </p>
 
 <!-- ===================== YORIICHI CHARACTER ===================== -->
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGdoa2d0b2ZrenBudjdhNGV3c2k3dmVuYjZuNjE3dTRhY21oamMxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pn6MTyyz5yEIB5w9Qx/giphy.gif" width="480"
-      style="max-width:100%; border-radius:12px;"
-  />
-</p>
+
 
 <h3 align="center">
 🌙 Anime Night Coder • 💻 Builder • 🧠 Deep Thinker
@@ -80,13 +76,13 @@
 
 ---
 
-## 📊 GitHub Stats
+<!-- === ## 📊 GitHub Stats === 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-Tangirala&theme=tokyonight&hide_border=true"/>
 </p>
 
----
+-->
 
 ## ✨ Philosophy
 
